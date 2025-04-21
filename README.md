@@ -1,13 +1,12 @@
 # Customer-Personality-Analysis
 This project focuses on cleaning the "Customer Personality Analysis" dataset from Kaggle. It involves handling null values, removing duplicates, fixing date formats, and standardizing text fields like education and marital status.
 
-What’s Done:
-Removed missing and duplicate entries
+Tools used:
+1. Python
+2. Pandas
 
-Standardized text (e.g., "Graduation", "Single")
+Data Source: 
+Downloaded the dataset using kagglehub
 
-Converted Dt_Customer to dd-mm-yyyy format
-
-Cleaned and renamed columns for consistency
-
-Fixed data types
+Output: 
+cleaned_marketing_campaign.csv
